@@ -7,7 +7,7 @@ logging.basicConfig(level=logging.INFO,
                     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-TOKEN = ''
+TOKEN = '8528321647:AAH4seaUFWTD68eKoJuBY3TO8F8tsuSqBGs'
 ADMIN_ID = '1394626253'
 
 bot = telebot.TeleBot(TOKEN)
